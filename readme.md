@@ -8,7 +8,7 @@
 
 ##Download
 
-Click Here → [Download]()
+Click Here → [Download](https://github.com/veadar/fullscreen-text-slideshow/releases)
 
 ##Special Thanks & Used Codes
 

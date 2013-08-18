@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSAppleScriptEnabled</key>
-	<false/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -19,17 +19,10 @@
 			<string>Viewer</string>
 		</dict>
 	</array>
-	<key>LSMinimumSystemVersionByArchitecture</key>
-	<dict>
-		<key>x86_64</key>
-		<string>10.6</string>
-	</dict>
-	<key>CFBundleIconFile</key>
-	<string>icon.icns</string>
-	<key>CFBundleDevelopmentRegion</key>
-	<string>English</string>
 	<key>CFBundleExecutable</key>
 	<string>fullscreen_text_slideshow</string>
+	<key>CFBundleIconFile</key>
+	<string>icon.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.yourcompany.MenuBarAppleScript.fullscreen_text_slideshow</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -42,14 +35,32 @@
 	<string>1.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>fullscreen_text_slideshow</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fullscreen_text_slideshow</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>1.1</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.6</string>
+	<key>LSMinimumSystemVersionByArchitecture</key>
+	<dict>
+		<key>x86_64</key>
+		<string>10.6</string>
+	</dict>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleScriptEnabled</key>
+	<false/>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
-	<key>CFBundleURLTypes</key><array>		<dict>			<key>CFBundleURLName</key>			<string>fullscreen_text_slideshow</string>			<key>CFBundleURLSchemes</key>			<array>				<string>fullscreen_text_slideshow</string>			</array>		</dict>	</array><key>LSUIElement</key><true/>
-	
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>NSServices</key>
@@ -67,7 +78,9 @@
 			<key>NSMessage</key>
 			<string>doService</string>
 			<key>NSSendTypes</key>
-			<array>				<string>NSStringPboardType</string>			</array>
+			<array>
+				<string>NSStringPboardType</string>
+			</array>
 		</dict>
 	</array>
 	<key>WindowState</key>
@@ -81,7 +94,7 @@
 		<key>positionOfDivider</key>
 		<real>494</real>
 		<key>savedFrame</key>
-		<string>143 174 696 680 0 0 1440 878 </string>
+		<string>628 738 696 680 0 0 2560 1418 </string>
 		<key>selectedTabView</key>
 		<string>event log</string>
 	</dict>
