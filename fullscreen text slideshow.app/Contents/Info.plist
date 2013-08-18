@@ -48,6 +48,8 @@
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1.1</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.6</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
@@ -55,8 +57,6 @@
 		<key>x86_64</key>
 		<string>10.6</string>
 	</dict>
-	<key>LSUIElement</key>
-	<true/>
 	<key>NSAppleScriptEnabled</key>
 	<false/>
 	<key>NSMainNibFile</key>
@@ -94,7 +94,7 @@
 		<key>positionOfDivider</key>
 		<real>494</real>
 		<key>savedFrame</key>
-		<string>771 738 696 680 0 0 2560 1418 </string>
+		<string>1142 738 696 680 0 0 2560 1418 </string>
 		<key>selectedTabView</key>
 		<string>event log</string>
 	</dict>
