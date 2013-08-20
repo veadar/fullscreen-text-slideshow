@@ -8,14 +8,14 @@ Split with "。"(or any) and Reading by cursor key.
 
 Appearance is customizable with CSS. 
 
-##Usage
-
-###Setup
+##Setup
 
 1. Open "System Preferences" > "Hardware" > "Keyboard" > "Keyboard Shortcuts" > ""Services"
 2. Check "fullscreen text slideshow"
 
 <img src="https://raw.github.com/veadar/fullscreen-text-slideshow/master/screenshot1.jpg">
+
+##Usage
 
 ### Text Reading
 
