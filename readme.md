@@ -15,7 +15,7 @@ Appearance is customizable with CSS.
 1. Open "System Preferences" > "Hardware" > "Keyboard" > "Keyboard Shortcuts" > ""Services"
 2. Check "fullscreen text slideshow"
 
-<img src="https://github.com/veadar/fullscreen-text-slideshow/raw/master/screenshot1.png">
+<img src="https://raw.github.com/veadar/fullscreen-text-slideshow/master/screenshot1.jpg">
 
 ### Text Reading
 
