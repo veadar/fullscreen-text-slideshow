@@ -4,7 +4,7 @@
 
 This is a viewer for reading text simply. 
 
-Split with paragraphs(or any) and Reading by cursor key.
+Split with "。"(or any) and Reading by cursor key.
 
 Appearance is customizable with CSS. 
 
