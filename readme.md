@@ -30,9 +30,11 @@ Appearance is customizable with CSS.
 
 ##Screenshot & Screencast
 
-<a href="http://quick.as/e4rf9r"><img src="https://github.com/veadar/fullscreen-text-slideshow/raw/master/screenshot2.png"></a>
+<a href="http://quick.as/bp7flg"><img src="https://github.com/veadar/fullscreen-text-slideshow/raw/master/screenshot2.png"></a>
 
-Click Screenshot to open <a href="http://quick.as/e4rf9r">Screencast page</a>.
+Click Screenshot to open <a href="http://quick.as/bp7flg">Screencast page</a>.
+
+Old version Screencast → [http://www.youtube.com/watch?v=6Ljo6Zo-I-c](http://www.youtube.com/watch?v=6Ljo6Zo-I-c)
 
 ##Download
 
