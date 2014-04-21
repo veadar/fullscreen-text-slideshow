@@ -1,7 +1,7 @@
 {
   "fullscreen text slideshow: {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "url": "https://github.com/veadar/fullscreen-text-slideshow/releases",
-    "comment": "・Fix bug of Instapaper."
+    "comment": "・Fix garbled texts(for 10.7).\n・Add contain !? option."
   }
 }
