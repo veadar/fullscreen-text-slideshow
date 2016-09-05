@@ -42,5 +42,6 @@ Click Here → [Download](https://github.com/veadar/fullscreen-text-slideshow/re
 
 ##Special Thanks & Used Codes
 
+- [ExtractContent](https://github.com/mono0x/extractcontent)
 - <a href="https://www.iconfinder.com/icons/33708/slideshow_icon#size=128">Mnml</a>
 - <a href="http://memogakisouko.appspot.com/MenuBarAppleScript.html">MenuBarAppleScript</a>
