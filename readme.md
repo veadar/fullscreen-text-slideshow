@@ -26,7 +26,7 @@ Appearance is customizable with CSS.
 
 1. Open web page you want to read.
 2. Launch "fullscreen text slideshow"
-3. Pick out main text by <a href="http://mobilizer.instapaper.com/m">Instapaper Mobilizer</a>.
+3. Pick out main text by [ExtractContent](https://github.com/mono0x/extractcontent).
 
 ##Screenshot & Screencast
 
